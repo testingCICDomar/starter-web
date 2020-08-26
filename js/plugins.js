@@ -6,7 +6,11 @@
         'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
         'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
         'markTimeline', 'profile', 'profileEnd', 'table', 'time', 'timeEnd',
+<<<<<<< HEAD
         'timeline', 'timelineEnd', 'timeStamp', 'trace', 'warn'
+=======
+        'timeStamp', 'trace', 'warn'
+>>>>>>> 4beb7f097b54ab7cf08daf17972c3ab14432ae24
     ];
     var length = methods.length;
     var console = (window.console = window.console || {});
